@@ -2,8 +2,6 @@ import 'dart:html';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_may/Splash.dart';
-import 'package:flutter_project_may/LoginPage.dart';
-import 'package:flutter_project_may/splashscreen.dart';
 
 void main() {
   runApp(const MaterialApp(
