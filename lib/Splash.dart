@@ -39,9 +39,9 @@ class _FirstpageState extends State<Firstpage> {
       ),
       body: Container(
         decoration: const BoxDecoration(
-          // image: DecorationImage(
-          //     fit: BoxFit.fill,
-          //     image: NetworkImage("https://unsplash.com/photos/Zega-znwiLQ"))
+           image: DecorationImage(
+             fit: BoxFit.fill,
+           image: NetworkImage("https://unsplash.com/photos/Zega-znwiLQ")),
             gradient: LinearGradient(colors: [
               Colors.red,
               Colors.yellow,
